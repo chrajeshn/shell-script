@@ -2,8 +2,8 @@
 
 #declaring of variables
 
-PERSON1=Sachine
-PERSON2=Rahual
+PERSON1=$1 #passing arguments
+PERSON2=$2 
 
 #refering variables
 

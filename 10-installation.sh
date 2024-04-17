@@ -21,8 +21,6 @@ else
     echo "Installation of mysql...SUCCESS"
 fi
 
-fi
-
 dnf install git -y
 
 if [ $? -ne 0 ]
